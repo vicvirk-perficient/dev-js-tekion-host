@@ -1,3 +1,3 @@
 (() => {
-  console.log("TEK: Hello World!");
+  console.log("TEK: Hello Team!");
 })();
